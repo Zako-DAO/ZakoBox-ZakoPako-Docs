@@ -354,7 +354,7 @@
 - 数据备份频率：每日
 
 ### 6.3 兼容性要求
-- 浏览器支持：Chrome、Firefox、Safari、Edge 最新版本
+- 浏览器版本支持：Chrome: 141、Firefox: 143、Safari/Safari on iOS: 26、Edge: 140
 - 移动设备：iOS 14+、Android 10+
 - 屏幕分辨率：320px - 4K
 - 网络环境：3G 以上
