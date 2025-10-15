@@ -16,7 +16,7 @@
 ### 1.2 核心定位
 #### 1.2.1 产品定位
 - 链上版本的 OpenCollective（黑客松上开发的 MVP 的主要功能）
-- Guild.xyz、SAFE前端和Snapshot/Aragon的功能集合体
+- Guild.xyz、SAFE 前端和 Snapshot/Aragon 的功能集合体
 - 专注于开发团队内部治理，而非大规模社区治理
 
 #### 1.2.2 目标用户
