@@ -4,9 +4,9 @@
 
 ### 1.1 项目背景
 #### 1.1.1 项目起源
-- 为Project Airi的Core-Dev-DAO，即ZakoDAO开发的专属链上治理和募资工具
+- 为 Project Airi 的 Core-Dev-DAO，即 ZakoDAO 开发的专属链上治理和募资工具
 - 解决开发者分散的开源项目在团队协作、资金管理和决策治理方面的痛点
-- 作为ETHOnline 2025黑客松参赛项目（10月26日项目提交截止）
+- 作为 ETHOnline 2025 黑客松参赛项目（10 月 26 日项目提交截止）
 
 #### 1.1.2 项目命名
 - ZakoBox：面向英语母语用户的简单直观命名
@@ -15,7 +15,7 @@
 
 ### 1.2 核心定位
 #### 1.2.1 产品定位
-- 链上版本的OpenCollective（黑客松上开发的MVP的主要功能）
+- 链上版本的 OpenCollective（黑客松上开发的 MVP 的主要功能）
 - Guild.xyz、SAFE前端和Snapshot/Aragon的功能集合体
 - 专注于开发团队内部治理，而非大规模社区治理
 
