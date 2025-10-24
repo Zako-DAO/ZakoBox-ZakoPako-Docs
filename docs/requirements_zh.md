@@ -170,15 +170,15 @@
 - TypeScript：核心语言
 - Vue：核心前端框架
 - Vite：打包工具
-- Vue-router：路由
-- Vue-i18n：国际化与本地化
-- unocss：样式
-- pnia：状态管理
-- shadcn：UI 库
-- pnpm：包管理器
-- oxlint/eslint：代码风格和质量保证
-- GitHub Actions：持续集成/持续部署
+- Vue Router：路由
+- Vue I18n：国际化与本地化
 - VueUse：工具库
+- UnoCSS：样式
+- Pinia：状态管理
+- shadcn/ui：UI 库
+- pnpm：包管理器
+- Oxlint/ESLint：代码风格和质量保证
+- GitHub Actions：持续集成/持续部署
 
 #### 3.2.2 用户体验
 - 响应式设计（移动端优先）
