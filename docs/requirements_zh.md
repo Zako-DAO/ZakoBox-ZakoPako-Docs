@@ -175,10 +175,22 @@
 - VueUse：工具库
 - UnoCSS：样式
 - Pinia：状态管理
+- Viem: TypeScript 以太坊接口库
 - shadcn/ui：UI 库
 - pnpm：包管理器
 - Oxlint/ESLint：代码风格和质量保证
 - GitHub Actions：持续集成/持续部署
+
+#### 3.3.2 数据存储
+- PostgreSQL 关系数据库
+- Redis 缓存层
+- 事件溯源架构
+
+#### 3.3.3 第三方集成
+- GitHub API（仓库信息、贡献者数据）
+- Blockscout API（链上数据查询）
+- PYUSD 支付网关
+- 消息推送服务
 
 #### 3.2.2 用户体验
 - 响应式设计（移动端优先）
@@ -192,24 +204,22 @@
 - 交易状态实时追踪
 - 签名请求优化
 
-### 3.3 后端服务 （如有需要）
-#### 3.3.1 API服务
-- Node.js + Express/Fastify
-- GraphQL API
-- WebSocket 实时通信
-- 速率限制和 DDoS 防护
-
-#### 3.3.2 数据存储
-- IPFS 去中心化存储
-- PostgreSQL 关系数据库
-- Redis 缓存层
-- 事件溯源架构
-
-#### 3.3.3 第三方集成
-- GitHub API（仓库信息、贡献者数据）
-- Blockscout API（链上数据查询）
-- PYUSD 支付网关
-- 消息推送服务
+### 3.3 后端服务 
+#### 3.3.1 技术栈
+  - TypeScript：核心语言
+  - Bun：高性能 JavaScript 运行时
+  - Hono：轻量级 Web 框架
+  - PostgreSQL：关系型数据库
+  - Drizzle ORM：类型安全的 ORM 框架
+  - Redis：缓存与会话存储
+  - ioredis：Redis 客户端
+  - Viem：TypeScript 以太坊接口库
+  - JWT：身份认证令牌
+  - Docker：容器化部署
+  - Docker Compose：本地开发环境编排
+  - ESLint：代码风格和质量保证
+  - Bun Test：测试框架
+  - GitHub Actions：持续集成/持续部署
 
 ### 3.4 安全需求
 #### 3.4.1 智能合约安全
